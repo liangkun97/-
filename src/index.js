@@ -1,4 +1,3 @@
-console.log("ok");
 
 import Vue from 'vue'
 import VueRouter from 'vue-router'

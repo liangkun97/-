@@ -269,9 +269,9 @@ export default {
                         width: 25%;
                         height: 100px;
                         text-align: center;
-                        border-top: 0.3px solid #eee;
+                        border-top: 5px solid red;
                         box-sizing: border-box;
-                        border-right: 0.3px solid #eee;
+                        border-right: 5px solid red;
                         span {
                             line-height: 70px;
                         }
